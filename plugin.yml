@@ -1,0 +1,12 @@
+name: Ascension
+version: 0.1
+author: GameurDuXVI
+main: fr.gameurduxvi.ascension.MainGame
+depend: [MeneliaAPI, WorldEdit]
+commands:
+  aasc:
+    description: Admin Ascension command
+    permission: adminascension.use
+  adminascension:
+    description: Admin Ascension command
+    permission: adminascension.use
